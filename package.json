@@ -41,7 +41,7 @@
     "newrelic": "1.18.3",
     "node-schedule": "^0.2.9",
     "node-xlsx": "^0.6.0",
-    "nodemailer": "^2.6.4",
+    "nodemailer": "^6.4.16",
     "oauth": "^0.9.15",
     "open-exchange-rates": "^0.3.0",
     "pmx": "^0.3.31",
