@@ -27,7 +27,7 @@
     "geoip-lite": "^1.1.6",
     "getresponse-nodejs-api": "0.0.4",
     "googleapis": "0.4.6",
-    "html-pdf": "^2.1.0",
+    "html-pdf": "^3.0.1",
     "isodate": "^0.1.4",
     "js-zimbra": "^1.0.0-beta.6",
     "lodash": "4.17.19",
