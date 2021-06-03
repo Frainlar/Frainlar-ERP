@@ -47,7 +47,7 @@
     "pmx": "^0.3.31",
     "redis": "^1.0.0",
     "request": "^2.88.2",
-    "socket.io": "^1.7.4",
+    "socket.io": "^2.4.0",
     "socket.io-redis": "^0.1.4",
     "swig": "1.4.2",
     "underscore": "^1.8.3",
