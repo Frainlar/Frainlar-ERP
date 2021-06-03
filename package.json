@@ -23,7 +23,7 @@
     "express": "^4.3.0",
     "express-session": "^1.13.0",
     "express-subdomain": "1.0.3",
-    "fast-csv": "^0.6.0",
+    "fast-csv": "^4.3.6",
     "geoip-lite": "^1.1.6",
     "getresponse-nodejs-api": "0.0.4",
     "googleapis": "39.1.0",
