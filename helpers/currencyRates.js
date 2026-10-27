@@ -16,7 +16,7 @@ module.exports = function (models) {
 
         this.get = function (opt, cb) {
             var now = moment();
-            var baseUrl = 'http://api.fixer.io/latest?base=';
+            var baseUrl = 'https://allratestoday.com/api/compat/exchangeratesapi/latest?base=';
             var waterfallTasks;
             var getLatestRates;
             var getBaseCurrency;
@@ -29,7 +29,7 @@ module.exports = function (models) {
 
             if (date) {
                 setDate = true;
-                baseUrl = 'http://api.fixer.io/';
+                baseUrl = 'https://allratestoday.com/api/compat/exchangeratesapi/';
             }
 
             if (typeof cb !== 'function') {
